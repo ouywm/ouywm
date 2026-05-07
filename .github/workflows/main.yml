@@ -1,19 +1,21 @@
 name: generate animation
 
 on:
-  # run automatically every 24 hours
+  # run automatically every day at 03:17 UTC (off-peak to avoid Actions queue contention)
   schedule:
-    - cron: "0 */24 * * *" 
-  
+    - cron: "17 3 * * *"
+
   # allows to manually run the job at any time
   workflow_dispatch:
-  
-  # run on every push on the master branch
+
+  # run on push to main, but skip when only README / workflows change (snake depends on the contribution graph, not these files)
   push:
     branches:
-    - main
-    
-  
+      - main
+    paths-ignore:
+      - 'README.md'
+      - '.github/**'
+
 
 jobs:
   generate:
