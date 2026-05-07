@@ -4,29 +4,7 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ouywm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ouywm&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ouywm&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="oywm's GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ouywm&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ouywm&layout=compact&theme=default&hide_border=true&border_radius=10&langs_count=8" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouywm&layout=compact&theme=default&hide_border=true&border_radius=10&langs_count=8" alt="top languages" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ouywm&theme=tokyonight&hide_border=true&border_radius=10" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ouywm&theme=default&hide_border=true&border_radius=10" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ouywm&theme=default&hide_border=true&border_radius=10" alt="streak stats" />
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ouywm&theme=default" alt="repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ouywm&theme=default" alt="most commit language" />
+  <img src="https://komarev.com/ghpvc/?username=ouywm&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 | Property | Data |
@@ -38,16 +16,23 @@
 | **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 | **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ouywm&theme=tokyonight&hide_border=true&border_radius=10" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ouywm&theme=default&hide_border=true&border_radius=10" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ouywm&theme=default&hide_border=true&border_radius=10" alt="streak stats" />
+  </picture>
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ouywm&theme=default" alt="repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ouywm&theme=default" alt="most commit language" />
+</p>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ouywm/ouywm/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ouywm/ouywm/output/github-contribution-grid-snake.svg" />
     <img src="https://raw.githubusercontent.com/ouywm/ouywm/output/github-contribution-grid-snake.svg" width="850" alt="github contribution snake" />
   </picture>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ouywm&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/ouywm"><img src="https://img.shields.io/github/followers/ouywm?label=Followers&style=social" alt="followers" /></a>
-  <a href="https://github.com/ouywm?tab=repositories"><img src="https://img.shields.io/github/stars/ouywm?label=Stars&style=social" alt="stars" /></a>
 </p>
